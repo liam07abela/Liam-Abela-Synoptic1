@@ -1,0 +1,27 @@
+body {
+    background-color: rgb(221 74 15 / 37%);
+    /*Nav bar*/
+    }
+    ul {
+        list-style-type:none;
+        padding: 0.5%;
+        overflow: hidden;
+        background-color: rgb(86, 86, 86);
+        position: fixed;
+         top: 0;
+         width: 97%;
+          
+      } 
+      li {
+        float: left;
+        border-right: 2px solid rgb(177, 177, 177);
+        /*Comment box*/
+      }
+      #Comment {
+        padding: 20%;
+        width: 115%;
+    }
+      h1{
+        margin: 5%;
+      }
+   
